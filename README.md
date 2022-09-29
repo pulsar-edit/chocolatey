@@ -1,3 +1,5 @@
+# :lock: This was no longer maintained by upstream, so it's archived here.
+
 This repository contains source code and templates for building a
 [Chocolatey](http://chocolatey.org) package for [Atom](http://atom.io).
 The package can be downloaded from the
